@@ -40,6 +40,10 @@ Once the application is running:
 2. **User With Points**: First table will show points given by user.
 3. **Total Votes**: Second table will show
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/e90e404b-2478-4121-9641-5cc5c7527fa9)
+![image](https://github.com/user-attachments/assets/97359d7f-f6fe-4b9b-ab83-12f82ad042ca)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute:
